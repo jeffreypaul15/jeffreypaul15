@@ -7,4 +7,4 @@ My name's Jeff! I'm a CSE undergrad from DSCE Bangalore. I love tinkering around
   - 🌱 I’m currently working towards Open-Source contribution and exploring the capabilities of Computer Vision.
   - 📫 **Contact :** [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jeffrey-paul-186b95192/) or jeffrey.paul2000@gmail.com
 
-[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreypaul15)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreypaul15)](https://github.com/jeffreypaul15)
