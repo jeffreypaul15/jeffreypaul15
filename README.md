@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt Text](https://media1.tenor.com/images/d36290b60386edcac00e60ae8944a348/tenor.gif?itemid=10032117)
+<div align="center">![Alt Text](https://media1.tenor.com/images/d36290b60386edcac00e60ae8944a348/tenor.gif?itemid=10032117) </div>
 
 I'm a CSE undergrad from DSCE Bangalore. I love tinkering around with Artificial Intelligence and have developed a passion for Computer Vision and data Vizualisation!
 
